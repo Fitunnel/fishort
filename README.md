@@ -20,7 +20,7 @@ Salin dan tempel perintah ini di terminal Termux Anda:
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone [https://github.com/Fitunnel/fishort](https://github.com/Fitunnel/fishort)
+git clone https://github.com/Fitunnel/fishort
 cd fishort
 chmod +x fishort.sh
 ./fishort.sh
