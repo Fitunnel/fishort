@@ -17,10 +17,14 @@
 ## 🚀 Instalasi Cepat
 Salin dan tempel perintah ini di terminal Termux Anda:
 
-```bash
+```
 pkg update && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/Fitunnel/fishort
 cd fishort
 chmod +x fishort.sh
 ./fishort.sh
+```
+
+### jalankan
+jalankan mengunakan domain yang anda masukan lalu buka browser nya dan boom!
